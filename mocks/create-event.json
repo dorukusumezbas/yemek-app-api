@@ -1,0 +1,8 @@
+{
+  "body": "{\"rating\": 5 ,\"name\":\"doruk\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
